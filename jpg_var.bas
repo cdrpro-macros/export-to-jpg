@@ -1,0 +1,9 @@
+Attribute VB_Name = "jpg_var"
+Public Const jpgPresVer& = 1        'Версия пресета
+Public Const jpgVer$ = "2.5"       'Версия макроса
+Public Const jpgDate$ = "(05.10.2012)"
+Public Const myWebSite$ = "cdrpro.ru"
+Public Const myEmail$ = "info@cdrpro.ru"
+Global Const HKEY_CURRENT_USER = &H80000001
+Global Const HKEY_LOCAL_MACHINE = &H80000002
+Global Const HKEY_CLASSES_ROOT = &H80000000
